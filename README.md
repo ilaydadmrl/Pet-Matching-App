@@ -1,3 +1,6 @@
+Graduation thesis project made with Murat Ekrem Bağcı and Utku Kağan Yavuzdoğan.
+
+
 Project/Website for pet owners. 
 Made with react.js 
 Connected with firebase for authentication and Db
